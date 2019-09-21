@@ -1,0 +1,31 @@
+/* CSS Document */
+
+header p, header div {
+	display: inline;
+	
+}
+
+#form_wrapper{
+	display: inline;	
+}
+
+#wrapper {
+	width:750px;
+	margin:0 auto;
+}
+
+#title_text {
+	font-size:30px;
+	font-family: Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-weight:bold;
+}
+
+#header_buttons {
+	margin-right:0;
+	margin-left: 350px;
+}
+
+#header_buttons p {
+	font-family:Segoe, "Segoe UI", "DejaVu Sans", "Trebuchet MS", Verdana, sans-serif;
+	font-size:24px;	
+}
